@@ -1,11 +1,11 @@
 ### Hi there 👋
-👋 Hello! I'm Puvadol Amorn. <hr>
-💻 Software Developer | 🌐 Web Developer
-🎓 Graduated in Information Technology from Mahasarakham University
-🔧 Proficient in JavaScript, Python, HTML, CSS
-🚀 Working with projects using React and Node.js
-📫 Contact: example@email.com | LinkedIn: linkedin.com/in/yourprofile
-<div id="header" align="center">
+👋 Hello! I'm Puvadol Amorn. <br>
+💻 Software Developer | 🌐 Web Developer <br>
+🎓 Graduated in Information Technology from Mahasarakham University <br>
+🔧 Proficient in JavaScript, Python, HTML, CSS <br>
+🚀 Working with projects using React and Node.js <br>
+📫 Contact: puvadonartmit@gmail.com | LinkedIn: linkedin.com/in/yourprofile <br>
+<div id="header" align="center"> 
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" width="180" height="140"/>
 </div>
 
