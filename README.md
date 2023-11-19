@@ -1,8 +1,7 @@
 
-### 👋 Hello! I'm Puvadol Amorn. <br>
+### 👋 Hello! I'm Puvadol Artmit. <br>
 💻 Software Developer | 🌐 Web Developer <br>
 🎓 Graduated in Information Technology from Mahasarakham University <br>
-🔧 Proficient in JavaScript, Python, HTML, CSS <br>
 🚀 Working with projects using React and Node.js <br>
 📫 Contact: puvadonartmit@gmail.com | LinkedIn: linkedin.com/in/yourprofile <br>
 <div id="header" align="center"> 
