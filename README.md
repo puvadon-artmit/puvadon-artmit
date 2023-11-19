@@ -1,7 +1,7 @@
-![image](https://github.com/puvadon-artmit/puvadon-artmit/assets/150676713/b94a2c11-54af-4528-aac4-a3ba2447db47)### Hi there 👋
+### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg" width="100"/>
+  <img src="https://i.gifer.com/AjA6.gif" width="100"/>
 </div>
 
 
