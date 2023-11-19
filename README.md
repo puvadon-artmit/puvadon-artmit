@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+👋 Hello! I'm Puvadol Amorn.
+💻 Software Developer | 🌐 Web Developer
+🎓 Graduated in Information Technology from Mahasarakham University
+🔧 Proficient in JavaScript, Python, HTML, CSS
+🚀 Working with projects using React and Node.js
+📫 Contact: example@email.com | LinkedIn: linkedin.com/in/yourprofile
 <div id="header" align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" width="180" height="140"/>
 </div>
