@@ -1,7 +1,7 @@
-### Hi there 👋
+![image](https://github.com/puvadon-artmit/puvadon-artmit/assets/150676713/b94a2c11-54af-4528-aac4-a3ba2447db47)### Hi there 👋
 
 <div id="header" align="center">
-  <img src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://i.gifer.com/AjA6.gif)" width="100"/>
+  <img src="https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg" width="100"/>
 </div>
 
 
