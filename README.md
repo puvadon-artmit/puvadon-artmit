@@ -1,5 +1,5 @@
-### Hi there 👋
-👋 Hello! I'm Puvadol Amorn. <br>
+
+### 👋 Hello! I'm Puvadol Amorn. <br>
 💻 Software Developer | 🌐 Web Developer <br>
 🎓 Graduated in Information Technology from Mahasarakham University <br>
 🔧 Proficient in JavaScript, Python, HTML, CSS <br>
