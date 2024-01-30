@@ -1,8 +1,8 @@
 
-### 👋 Hello! I'm Puvadol Artmit. <br>
+### Hello! I'm Puvadol Artmit. <br>
 💻 Software Developer | 🌐 Web Developer <br>
 🎓 Graduated in Information Technology from Mahasarakham University <br>
-🚀 Working with projects using React and Node.js <br>
+🚀 Working with projects using React js, Next js and Node.js, Golang <br>
 📫 Contact: puvadonartmit@gmail.com | LinkedIn: https://www.linkedin.com/in/puvadon-artmit-8011b92a0/ <br>
 <div id="header" align="center"> 
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" width="180" height="140"/>
