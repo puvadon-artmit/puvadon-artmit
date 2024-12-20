@@ -25,7 +25,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1364/1*5gMIBFvpNJivfyqv1ApwzA.png" title="Fiber" alt="Fiber" width="60" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1364/1*5gMIBFvpNJivfyqv1ApwzA.png" title="Fiber" alt="Fiber" width="45" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
