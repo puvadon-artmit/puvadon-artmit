@@ -3,7 +3,7 @@
 💻 Software Developer | 🌐 Web Developer <br>
 🎓 Graduated in Information Technology from Mahasarakham University <br>
 🚀 Working with projects using Golang and Node.js, Next js, React js <br>
-📫 Contact: puvadonartmit@gmail.com | LinkedIn: https://www.linkedin.com/in/puvadon-artmit-8011b92a0/ <br>
+✉️ Contact: puvadonartmit@gmail.com | LinkedIn: https://www.linkedin.com/in/puvadon-artmit-8011b92a0/ <br>
 <div id="header" align="center"> 
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" width="180" height="140"/>
 </div>
