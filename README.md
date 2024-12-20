@@ -14,12 +14,6 @@
 - Email: [puvadonartmit@gmail.com](mailto:puvadonartmit@gmail.com)  
 - LinkedIn: [Puvadol Artmit](https://www.linkedin.com/in/puvadon-artmit-8011b92a0/)
 
-<div id="header" align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" width="180" height="140" style="border: none; margin-top: 20px; border-radius: 10;" />
-</div>
-
-
-
 
 
 ---
