@@ -1,5 +1,5 @@
 
-# Hello! I'm Puvadol Artmit
+# Hi there, I'm Puvadon Artmit (Ball) 👋
 
 💻 **Software Developer** 
 
