@@ -8,8 +8,10 @@ Mahasarakham University
 
 🚀 Tech Stack:
 
-Backend: Golang, Node.js
+Backend: Golang
+
 Frontend: Next.js, React.js
+
 📩 Contact:
 
 Email: puvadonartmit@gmail.com
