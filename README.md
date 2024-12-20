@@ -1,7 +1,7 @@
 
 # Hello! I'm Puvadol Artmit
 
-💻 **Software Developer** | 🌐 **Web Developer**
+💻 **Software Developer** 
 
 🎓 **Education**  
 Graduated in Information Technology from Mahasarakham University
