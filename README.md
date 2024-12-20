@@ -25,6 +25,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40thanhdatvo%2Fconsider-go-fiber-as-an-upgrade-for-express-js-1569176f65d&psig=AOvVaw0-hLw5wjKn3ZomDf6fk7hF&ust=1734766535153000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCY0IzrtYoDFQAAAAAdAAAAABAQ" title="Fiber" alt="Fiber" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
