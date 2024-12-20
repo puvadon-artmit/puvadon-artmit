@@ -4,7 +4,7 @@
 💻 **Software Developer** 
 
 🎓 **Education**  
-Graduated in Information Technology from Mahasarakham University
+- Graduated in Information Technology from Mahasarakham University
 
 🚀 **Project Experience**  
 - Developing scalable backend systems using **Golang** and **Node.js**  
