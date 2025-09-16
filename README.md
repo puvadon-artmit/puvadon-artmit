@@ -11,8 +11,8 @@
 - Building dynamic and responsive web applications with **Next.js** and **React.js**
 
 ✉️ **Contact Information**  
-- Email: [puvadonartmit@gmail.com](mailto:puvadonartmit@gmail.com)  
-- LinkedIn: [Puvadol Artmit](https://www.linkedin.com/in/puvadon-artmit-8011b92a0/)
+- Email : [puvadonartmit@gmail.com](mailto:puvadonartmit@gmail.com)  
+- Line ID : ball012ball
 
 
 
