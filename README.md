@@ -1,7 +1,7 @@
 
 # Hi there, I'm Puvadon Artmit (Ball) 👋
 
-💻 **Software Developer** 
+💻 **Software Developer | Backend (Golang/Node.js) | Full Stack with Next.js** 
 
 🎓 **Education**  
 - Graduated in Information Technology from Mahasarakham University
