@@ -15,8 +15,12 @@
 - LinkedIn : [linkedin.com/in/puvadonartmit](https://www.linkedin.com/in/puvadonartmit)
   
 
-### 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puvadon-artmit&layout=compact&theme=tokyonight)
+<!-- สถิติรวม -->
+![Ball's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=puvadon-artmit&show_icons=true&theme=tokyonight)
+
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=puvadon-artmit&layout=compact&theme=tokyonight)
+
 
 
 
