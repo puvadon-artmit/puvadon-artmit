@@ -12,8 +12,11 @@
 
 ✉️ **Contact Information**  
 - Email : [puvadonartmit@gmail.com](mailto:puvadonartmit@gmail.com)  
-- LinkedIn : [linkedin.com/in/puvadonartmit](https://www.linkedin.com/in/puvadonartmit)  
-- GitHub : [github.com/puvadon-artmit](https://github.com/puvadon-artmit)  
+- LinkedIn : [linkedin.com/in/puvadonartmit](https://www.linkedin.com/in/puvadonartmit)
+- 
+ ### 📊 GitHub Stats
+![Ball's GitHub stats](https://github-readme-stats.vercel.app/api?username=puvadon-artmit&show_icons=true&theme=tokyonight)
+
 
 
 
