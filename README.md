@@ -12,7 +12,9 @@
 
 ✉️ **Contact Information**  
 - Email : [puvadonartmit@gmail.com](mailto:puvadonartmit@gmail.com)  
-- Line ID : ball012ball
+- LinkedIn : [linkedin.com/in/puvadonartmit](https://www.linkedin.com/in/puvadonartmit)  
+- GitHub : [github.com/puvadon-artmit](https://github.com/puvadon-artmit)  
+
 
 
 
