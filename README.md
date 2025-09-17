@@ -15,7 +15,7 @@
 - LinkedIn : [linkedin.com/in/puvadonartmit](https://www.linkedin.com/in/puvadonartmit)
 - 
  ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puvadon-artmit&theme=tokyonight)
+![Ball's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=puvadon-artmit&show_icons=true&theme=tokyonight)
 
 
 
