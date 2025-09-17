@@ -15,6 +15,7 @@
 - LinkedIn : [linkedin.com/in/puvadonartmit](https://www.linkedin.com/in/puvadonartmit)
   
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puvadon-artmit&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true&layout=compact&langs_count=8&token=${{ secrets.PAT_1 }})
 
 
 
